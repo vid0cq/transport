@@ -17,3 +17,8 @@ body {
 section {
   padding: 1px 0;
 }
+
+.social-icon > a {
+	color:inherit;
+	text-decoration: none;
+}
