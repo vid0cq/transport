@@ -1,37 +1,24 @@
 {
-    "title": "Small Business",
-    "name": "startbootstrap-small-business",
-    "version": "4.0.0-beta",
-    "description": "A small business HTML template built with Bootstrap",
-    "keywords": [
-        "css",
-        "sass",
-        "html",
-        "responsive",
-        "theme",
-        "template"
-    ],
-    "homepage": "https://startbootstrap.com/template-overviews/small-business",
-    "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-small-business/issues",
-        "email": "feedback@startbootstrap.com"
-    },
-    "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-small-business.git"
-    },
-    "dependencies": {
-        "bootstrap": "^4.0.0-beta",
-        "jquery": "^3.2.1",
-        "popper.js": "1.12.3"
-    },
-    "devDependencies": {
-        "browser-sync": "2.18.13",
-        "gulp": "^3.9.1"
-    }
+  "title": "Sfichi Transport",
+  "name": "sfichi-transport",
+  "version": "1.0.0",
+  "description": "Sfichi Transport",
+  "main": "website.js",
+  "license": "UNLICENSED",
+  "author": "Victor Chira",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vid0cq/transport.git"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "bootstrap": "^4.0.0-beta",
+    "express": "^4.15.4",
+    "jquery": "^3.2.1",
+    "popper.js": "1.12.3"
+  },
+  "devDependencies": {
+    "browser-sync": "2.18.13",
+    "gulp": "^3.9.1"
+  }
 }
